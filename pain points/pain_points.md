@@ -1,0 +1,11 @@
+Cada pain point se conecta con un stakeholder y se separa el síntoma (lo que se observa) del problema (la causa que explica el síntoma).
+
+| Stakeholder | Síntoma | Problema (causa) | Impacto | Evidencia | Decisión |
+|---|---|---|---|---|---|
+| S2 Oficina de Egresados | Correos que rebotan y bases de contacto viejas. | Los datos solo se capturan al grado; no existe un mecanismo periódico ni un incentivo para que el egresado actualice. | Alto: sin contacto no hay seguimiento posible. | Caso + supuesto a validar (tasa de rebote). | CONSERVAR (principal) |
+| S4 Programas / Autoevaluación | Informes de egresados armados a última hora con encuestas de baja respuesta. | La información está dispersa entre dependencias, en formatos distintos y sin identificador común; no es comparable ni consolidable. | Alto: riesgo en registro calificado y acreditación; decisiones curriculares sin evidencia. | Normativa de calidad + supuesto a validar en entrevista. | CONSERVAR (principal) |
+| S1 Egresados | Reciben encuestas repetidas y no ven ningún resultado. | La relación es unidireccional: la institución extrae datos y no ofrece retorno ni transparencia sobre su uso. | Alto: baja participación y desconfianza. | Supuesto a validar (encuesta corta a egresados). | CONSERVAR (principal) |
+| S9 Jurídica / Protección de datos | Bases de datos en hojas de cálculo en varias oficinas. | Datos tratados sin autorización o finalidad documentada: riesgo de incumplir la Ley 1581. | Muy alto: posible sanción y daño reputacional. | Ley 1581 + supuesto sobre bases existentes. | CONSERVAR |
+| S3 Directivas | Piden indicadores que tardan semanas en llegar. | No hay una fuente única y confiable de indicadores de trayectoria. | Medio: decisiones estratégicas con información incompleta. | Derivado de S2 y S4. | CONSERVAR (secundario) |
+| S8 Tecnología | Solicitudes repetidas de extracciones de datos. | Integraciones ad hoc sin modelo de datos común. | Medio: carga operativa y duplicidad. | Supuesto a validar con S8. | CONSERVAR (secundario) |
+| S5 Empleadores | Dificultad para contactar egresados de la institución. | No hay canal institucional para publicar ofertas. | Bajo para el problema central. | Sin evidencia. | REPLANTEAR como oportunidad, no como pain point |
